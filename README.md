@@ -1,4 +1,4 @@
-# sybex-1Z0-829-chapter-12
+# Java Modular System
 
 Code and commands from [OCP Oracle Certified Professional Java SE 17 Study Guide: Exam 1Z0-829 by Scott Selikoff and Jeanne Boyarsky](https://www.amazon.com/Oracle-Certified-Professional-Developer-Study/dp/1119864585)
 
